@@ -9,6 +9,9 @@ In this project you will build such a pipeline.
 # Wandb Project Link
 https://wandb.ai/caleb-poock-western-governors-university/nyc_airbnb/overview
 
+# GitHub Repository Link
+https://github.com/teqqqie/Project-Build-an-ML-Pipeline-Starter
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
